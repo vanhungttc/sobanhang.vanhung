@@ -1,0 +1,8 @@
+{
+  "name":"Sổ Bán Hàng",
+  "short_name":"SoBanHang",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#ffffff",
+  "theme_color":"#006D77"
+}
